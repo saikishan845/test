@@ -6,6 +6,7 @@ object object1 {
     print("hello world")
 
     print("Hi i am modified in child")
+    print("HI i am in new line at 9")
 
   }
 }
